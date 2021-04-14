@@ -1,16 +1,16 @@
 {
-    "name": "vendor_slug/package_slug",
-    "description": ":package_description",
+    "name": "mohamedallam1991/unit_conversions",
+    "description": "This is my package UnitConversions",
     "keywords": [
-        ":vendor_name",
-        "package_slug"
+        "mohamedallam1991",
+        "unit_conversions"
     ],
-    "homepage": "https://github.com/vendor_slug/package_slug",
+    "homepage": "https://github.com/mohamedallam1991/unit_conversions",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": "author@domain.com",
+            "name": "Mohamed Allam",
+            "email": "meda3gm@gmail.com",
             "role": "Developer"
         }
     ],
@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "VendorName\\Skeleton\\": "src"
+            "Mohamedallam1991\\UnitConversions\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "VendorName\\Skeleton\\Tests\\": "tests"
+            "Mohamedallam1991\\UnitConversions\\Tests\\": "tests"
         }
     },
     "scripts": {
